@@ -1,4 +1,4 @@
-[![MasterHead](https://media.tenor.com/w2WYZuHWZw0AAAAC/coded-data.gif)
+
 <h1 align="center">Hi 👋, I'm Abdul Basith</h1>
 <h3 align="center">CyberSecurity Enthusiastic & Developer</h3>
 <img align="right" alt=:CoDiNg" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
